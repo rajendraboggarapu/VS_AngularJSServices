@@ -1,0 +1,7 @@
+R:\AngularJS\WcfServices\AngularTestService\AngularTestService\bin\AngularTestService.dll.config
+R:\AngularJS\WcfServices\AngularTestService\AngularTestService\bin\AngularTestService.dll
+R:\AngularJS\WcfServices\AngularTestService\AngularTestService\bin\AngularTestService.pdb
+R:\AngularJS\WcfServices\AngularTestService\AngularTestService\bin\Newtonsoft.Json.dll
+R:\AngularJS\WcfServices\AngularTestService\AngularTestService\obj\Debug\AngularTestService.csprojResolveAssemblyReference.cache
+R:\AngularJS\WcfServices\AngularTestService\AngularTestService\obj\Debug\AngularTestService.dll
+R:\AngularJS\WcfServices\AngularTestService\AngularTestService\obj\Debug\AngularTestService.pdb
